@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Blue light",
+        "text": "What would you like to do?",
+        "textColor":"Black",
+        "textSize":10,
+        "inputColor":"",
+        "background": "images/background1.jpg"
+    },
+    {
+        "name":"Green light",
+        "text": "What would you like to do?",
+        "textColor":"white",
+        "textSize":10,
+        "inputColor":"black",
+        "background": "images/background8.png"
+    },
+    {
+        "name":"Blue night",
+        "text": "What would you like to do?",
+        "textColor":"white",
+        "textSize":10,
+        "inputColor":"black",
+        "background": "images/background10.jpg"
+    },
+    {
+        "name":"Blue light",
+        "text": "What would you like to do?",
+        "textColor":"cBlack",
+        "textSize":10,
+        "inputColor":"",
+        "background": ""
+    }
+]
