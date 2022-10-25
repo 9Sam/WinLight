@@ -4,4 +4,4 @@ The porpouse of this project is to simulate the spotlight functionality of mac O
 
 # Installation
 
-To install this project just download the containing folder and execute the **WinLight.ahk** file within the folder, alternatively you could make a shortcut file and save it in the start folder of windows so it will be loaded on the startup of the system.
+To install this project just download the containing folder and execute the **WinLight.ahk** file within the folder, alternatively you could make a shortcut file and save it in the start folder of windows so it will be loaded on the next start of the system.
