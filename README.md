@@ -14,7 +14,7 @@ To install this project on your computer just download the containing folder and
 
 ## Commands file
 
-Remove the ***"x"*** letter from the end of the name of the **commands.json** file.
+The `commands.json` contains all of the commands that will be created to access files, folders or websites
 
 ## Command structure
 
@@ -36,6 +36,18 @@ Remove the ***"x"*** letter from the end of the name of the **commands.json** fi
 
 
 # Functionalities
+
+## Make google searches in your default browser
+
+To make a search in google from Winlight you must include a `?` character before the text you want to search.
+
+# Included commands
+
+## Sound commands
+
+`.s <number(1-100)>` -> Set sound to any number you want between 1 and 100  
+`.mute` -> Set volume to 0
+
 
 # Personalization
 
