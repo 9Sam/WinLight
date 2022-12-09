@@ -53,9 +53,11 @@ To make a search in google from Winlight you must include a `?` character before
 
 ## Themes file
 
-Remove the ***"x"*** letter from the end of the name of the **themes.json** file.
+> note: Autohotkey has certain limitations when creating custom style, so there will be only a few things that you will be able to modify, like the text color, image background, font size or the input font color.
+
+The theme file includes the different themes of the application, you can modify the default themes or create a new one.
 
 ## Create your custom themes
 
-Autohotkey has certain limitations when creating custom style, so there will be only a few things that you will be able to modify, like:
+To create a new theme just copy the structure of one of the current objects in the json file and replace the values with your preffered values.
 
