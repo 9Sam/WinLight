@@ -29,7 +29,7 @@ Remove the ***"x"*** letter from the end of the name of the **commands.json** fi
     "alias": "<commandNameRepresentation>",
     "commandType": "run",
     "sound": "false",
-    "action": "S:\\SAM\\Programación\\Autohotkey\\scripts\\bots\\WinLight\\commands.json",
+    "action": "<fileRoute>",
     "type":"📄 File"
 },
 ```
