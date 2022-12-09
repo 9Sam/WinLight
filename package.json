@@ -1,0 +1,15 @@
+{
+  "name": "WinLight",
+  "version": "1.0.0",
+  "description": "The porpouse of this project is to simulate the spotlight functionality of mac OS in windows using autohotkey to achieve this. The main functionality is to execute commands from an input file, this commands are locally store in a JSON file and the program will execute the command if this exists.\\",
+  "main": "index.js",
+  "scripts": {
+    "dev": ".\\WinLight.ahk"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
